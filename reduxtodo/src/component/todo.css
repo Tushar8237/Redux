@@ -1,0 +1,16 @@
+*body {
+    background-color: rgb(60, 42, 42);
+}
+.main-div {
+    border: 1px solid rgb(94, 92, 92);
+    height: 300px;
+    width: 250px;
+    margin-left: 500px;
+    margin-top: 100px;
+    background-color: aquamarine;
+
+}
+
+.addItem {
+    padding-left: 35px;
+}
