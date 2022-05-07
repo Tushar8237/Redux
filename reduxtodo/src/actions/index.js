@@ -1,6 +1,9 @@
 export const addTodo = () => {
     return {
-        type: "ADD_TODO"
+        type: "ADD_TODO",
+        payload : {
+           id: new Date().getTime().toString(),
+        }
     }
 }
 
